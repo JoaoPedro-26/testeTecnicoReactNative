@@ -1,0 +1,14 @@
+{
+    "posts": [
+      { "name": "Fred", "cargo": "Back-end", "dataDeAdmissao": "26-09-1997", "telefone": "5512981922697", "photo": "../../assets/Images/PeopleImages/Photo.png" },
+      { "name": "Luiza", "cargo": "Front-end", "dataDeAdmissao": "26-09-1997", "telefone": "5512981922697", "photo": "../../assets/Images/PeopleImages/Photo.png" },
+      { "name": "Fred", "cargo": "Back-end", "dataDeAdmissao": "26-09-1997", "telefone": "5512981922697", "photo": "../../assets/Images/PeopleImages/Photo.png" },
+      { "name": "Luiza", "cargo": "Front-end", "dataDeAdmissao": "26-09-1997", "telefone": "55981922697", "photo": "../../assets/Images/PeopleImages/Photo.png" },
+      { "name": "Luiza", "cargo": "Front-end", "dataDeAdmissao": "26-09-1997", "telefone": "55981922697", "photo": "../../assets/Images/PeopleImages/Photo.png" },
+      { "name": "Fred", "cargo": "Back-end", "dataDeAdmissao": "26-09-1997", "telefone": "55981922697", "photo": "../../assets/Images/PeopleImages/Photo.png" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+}
